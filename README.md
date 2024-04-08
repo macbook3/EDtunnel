@@ -101,7 +101,7 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
 
 ## Contributing
 
-This project is tested with [BrowserStack](https://www.browserstack.com/).
+ This project is tested with BrowserStack.
 
 ## Star History
 
